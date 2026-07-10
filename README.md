@@ -4,14 +4,14 @@
 I am a Cybersecuriity  student at NIIT Port Harcourt, passonate about offensive and defensive cybersecurity
 I enjoy building practical Cybersecurity project that demonstrates real-world skills in:
 Penetration Testing,
-Log Analysis
-Malware Analysis
-Digital Forensics
-OSINT
-Threat Hunting
-Social Engineering
-Vulnerability Assessment
-Governance Risk and Complaince 
+Log Analysis,
+Malware Analysis,
+Digital Forensics,
+OSINT,
+Threat Hunting,
+Social Engineering,
+Vulnerability Assessment,
+Governance Risk and Complaince,
 
 ## Projects
 | Project | Description | Repository |
