@@ -11,7 +11,7 @@ OSINT,
 Threat Hunting,
 Social Engineering,
 Vulnerability Assessment,
-Governance Risk and Complaince,
+Governance Risk and Complaince.
 
 ## Projects
 | Project | Description | Repository |
