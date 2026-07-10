@@ -31,22 +31,22 @@ Governance Risk and Complaince.
 - FTP
 - SSH
 
-  ### Cybersecurity Tools
-  - Nmap
-  - Wireshark
-  - Burp Suite
-  - Metasploit
-  - GIT
-  - GiftHub
+### Cybersecurity Tools
+- Nmap
+- Wireshark
+- Burp Suite
+- Metasploit
+- GIT
+- GiftHub
  
-    ## Certifications
-    - ISC2 CC
-    - CompTia Security (In Progress)
+## Certifications
+- ISC2 CC
+- CompTia Security (In Progress)
 
-    ## Education
-    - NIIT Port Harcourt: Cybersecurity
-    - TonyeInfosec: Mentorship and Internship Program
+## Education
+- NIIT Port Harcourt: Cybersecurity
+- TonyeInfosec: Mentorship and Internship Program
 
-    ## Contact
-    - Phone: +2349011375052
-    - Email: thywilljunior@gmail.com
+## Contact
+- Phone: +2349011375052
+- Email: thywilljunior@gmail.com
