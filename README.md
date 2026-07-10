@@ -3,7 +3,7 @@
 # About me
 I am a Cybersecuriity  student at NIIT Port Harcourt, passonate about offensive and defensive cybersecurity
 I enjoy building practical Cybersecurity project that demonstrates real-world skills in:
-Penetration Testing
+Penetration Testing,
 Log Analysis
 Malware Analysis
 Digital Forensics
